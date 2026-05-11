@@ -1,0 +1,57 @@
+[
+  {
+    "city": "Peshawar",
+    "country": "PK",
+    "temp": 29.2,
+    "feels": 29.2,
+    "humidity": 44,
+    "wind": 28.3,
+    "condition": "Broken Clouds",
+    "pressure": 1006,
+    "timestamp": "2026-05-11 20:57:01"
+  },
+  {
+    "city": "Karachi",
+    "country": "PK",
+    "temp": 29.0,
+    "feels": 33,
+    "humidity": 71,
+    "wind": 16.3,
+    "condition": "Few Clouds",
+    "pressure": 1006,
+    "timestamp": "2026-05-11 20:56:56"
+  },
+  {
+    "city": "Lahore",
+    "country": "PK",
+    "temp": 36.1,
+    "feels": 34.5,
+    "humidity": 21,
+    "wind": 9.9,
+    "condition": "Clear Sky",
+    "pressure": 1002,
+    "timestamp": "2026-05-11 20:56:53"
+  },
+  {
+    "city": "Islamabad",
+    "country": "PK",
+    "temp": 26.1,
+    "feels": 26.1,
+    "humidity": 33,
+    "wind": 6.5,
+    "condition": "Light Rain",
+    "pressure": 1005,
+    "timestamp": "2026-05-11 20:56:52"
+  },
+  {
+    "city": "Rawalpindi",
+    "country": "PK",
+    "temp": 25.9,
+    "feels": 25.3,
+    "humidity": 30,
+    "wind": 1.9,
+    "condition": "Light Rain",
+    "pressure": 1004,
+    "timestamp": "2026-05-11 20:56:50"
+  }
+]
