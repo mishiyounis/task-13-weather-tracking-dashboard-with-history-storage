@@ -10,7 +10,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from tkinter import messagebox, filedialog
 
 # ==================== CONFIGURATION ====================
-API_KEY = "d6645bc3fe8fede4bb9ced570dc3c20e"
+API_KEY = "Add your API here"
 BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
 HISTORY_FILE = "weather_history.json"
 
